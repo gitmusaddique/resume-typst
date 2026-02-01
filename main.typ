@@ -72,7 +72,7 @@
 #resume_heading[Education]
 
 #edu_item(
-  "Parul Institute of Technology",
+  "Parul University",
   "Bachelor of Technology in Computer Science & Engineering (AI)",
   "Vadodara, Gujarat, India",
   "2022 -- 2025"
