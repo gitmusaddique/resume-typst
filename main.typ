@@ -61,7 +61,7 @@
 #align(center)[
   #text(size: 20pt, weight: "bold")[Musaddique Ali] \
   #v(0.3em)
-  Nazira, Sivasagar, Assam, India - 785685 #h(0.5em) $|$ #h(0.5em) +91-6003095404 #h(0.5em) $|$ #h(0.5em) musaddique.ali\@example.com \
+  Nazira, Sivasagar, Assam, India - 785685 #h(0.5em) $|$ #h(0.5em) +91-6003095404 #h(0.5em) $|$ #h(0.5em) musaddiquecodes\@gmail.com \
   #v(0.1em)
   https://github.com/gitmusaddique #h(0.5em) $|$ #h(0.5em) https://www.linkedin.com/in/musaddique-ali-16336727b/
 ]
